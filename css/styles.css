@@ -1,0 +1,20 @@
+body {
+  font-family: 'Exo', sans-serif;
+}
+
+div#output
+ {
+  padding-top: 30px;
+}
+
+
+
+.jumbotron {
+  text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfJOR8CAPmE0PrdJOdLHhaEJs6Sqtdm3gkkmV-aIc5kUJG8EmOtQ");
+
+}
+
+ul {
+ font-size: 20px;
+}
